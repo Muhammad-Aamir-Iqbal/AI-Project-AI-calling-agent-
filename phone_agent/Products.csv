@@ -1,0 +1,163 @@
+﻿Product Name,Category,Brand,Price in Rupees,Stock,Description
+Cotton T-Shirt,Clothing,Essentials,299,150,Comfortable cotton t-shirt available in various colors and sizes
+Denim Jeans,Clothing,Levis,1499,75,Classic fit denim jeans with straight leg design
+Running Shoes,Footwear,Nike,2999,45,Lightweight running shoes with cushioned sole
+Summer Dress,Clothing,Forever21,1299,50,Floral print summer dress in various sizes
+Sports Shorts,Clothing,Adidas,899,80,Breathable sports shorts with pockets
+Winter Jacket,Clothing,Monte Carlo,2499,40,Warm padded jacket for winter
+Formal Shirt,Clothing,Arrow,999,65,Cotton formal shirt for office wear
+Handbag,Fashion,Lavie,2499,50,Trendy handbag with spacious compartments
+Backpack,Fashion,Wildcraft,1999,80,Durable backpack with multiple compartments
+Sunglasses,Fashion,Ray-Ban,8999,40,Classic aviator sunglasses with UV protection
+Wristwatch,Fashion,Fastrack,2499,60,Stylish wristwatch with leather strap
+Belt,Fashion,Tommy Hilfiger,1999,50,Genuine leather belt with classic buckle
+Wallet,Fashion,Woodland,1499,70,Premium leather wallet with multiple slots
+School Bag,Fashion,American Tourister,2499,100,Spacious school bag with padded straps
+Laptop,Electronics,HP,49999,25,High-performance laptop with 16GB RAM and 512GB SSD
+Smartphone,Electronics,Samsung,29999,50,Latest model with 5G and 128GB storage
+LED TV,Electronics,Sony,39999,30,55-inch 4K UHD LED Smart TV
+Bluetooth Speaker,Electronics,JBL,4999,100,Portable speaker with deep bass
+Headphones,Electronics,Boat,1999,120,Over-ear wireless headphones with noise cancellation
+Smartwatch,Electronics,Apple,24999,20,Advanced smartwatch with fitness tracking
+Microwave Oven,Home,IFB,10499,35,Convection microwave oven with 20L capacity
+Refrigerator,Home,LG,25999,15,Double-door refrigerator with smart inverter
+Washing Machine,Home,Samsung,32999,10,Front-load washing machine with eco bubble
+Air Conditioner,Home,Daikin,42999,5,1.5 Ton split AC with inverter technology
+Bath Towel,Home,HomePlus,399,100,Soft cotton bath towel large size
+Curtains,Home,HomeTown,1499,80,Set of 2 blackout curtains 8 feet
+Wall Clock,Home,Ajanta,799,150,Stylish wall clock with silent movement
+Ceiling Fan,Home,Havells,2499,100,Energy-efficient ceiling fan with remote control
+Water Purifier,Home,Kent,12999,20,RO+UV+UF water purifier with mineral booster
+Vacuum Cleaner,Home,Eureka Forbes,7999,30,Compact vacuum cleaner with HEPA filter
+Water Bottle,Home,Milton,599,200,Insulated stainless steel water bottle 1L
+Lunch Box,Home,Cello,499,150,Microwave-safe lunch box with 3 compartments
+Office Chair,Furniture,Godrej,7999,50,Ergonomic office chair with lumbar support
+Study Table,Furniture,Ikea,4999,30,Compact study table with wooden finish
+Sofa Set,Furniture,Urban Ladder,39999,5,5-seater sofa set with premium upholstery
+Dining Table,Furniture,Pepperfry,29999,10,6-seater dining table with tempered glass top
+Wheat Flour,Groceries,Aashirvaad,250,200,Premium quality wheat flour 5kg pack
+Basmati Rice,Groceries,India Gate,899,180,Premium aged basmati rice 5kg pack
+Cooking Oil,Groceries,Fortune,180,250,Refined sunflower oil 1L bottle
+Tea Bags,Groceries,Tata Tea,145,250,Premium tea bags 100 count
+Coffee Powder,Groceries,Nescafe,289,200,Classic instant coffee 200g jar
+Potato Chips,Groceries,Lays,20,500,Classic salted potato chips 30g pack
+Chocolate Bar,Groceries,Cadbury,40,600,Dairy milk chocolate bar 50g
+Fresh Bread,Groceries,Britannia,40,150,Whole wheat bread loaf
+Milk,Groceries,Amul,68,400,Full cream milk 1L pack
+Sugar,Groceries,Madhur,45,500,Refined white sugar 1kg pack
+Salt,Groceries,Tata,20,800,Iodized salt 1kg pack
+Dal Arhar,Groceries,Tata Sampann,120,400,Toor dal 1kg pack
+Dal Moong,Groceries,Tata Sampann,140,350,Green moong dal 1kg pack
+Dal Masoor,Groceries,Tata Sampann,110,450,Red lentils 1kg pack
+Ghee,Groceries,Amul,550,200,Pure cow ghee 1L pack
+Honey,Groceries,Dabur,280,300,Pure honey 500g jar
+Jam,Groceries,Kissan,150,400,Mixed fruit jam 500g
+Ketchup,Groceries,Kissan,85,600,Tomato ketchup 500g
+Biscuits,Groceries,Parle,30,1000,Glucose biscuits pack of 10
+Noodles,Groceries,Maggi,28,1200,Instant noodles 70g pack
+Apple,Fruits,Kashmir,120,500,Fresh Kashmiri apples sweet and crunchy per kg
+Banana,Fruits,Local,40,800,Fresh ripe bananas rich in potassium per dozen
+Orange,Fruits,Nagpur,80,600,Fresh Nagpur oranges juicy and vitamin C rich per kg
+Mango,Fruits,Alphonso,200,400,Premium Alphonso mangoes king of fruits per kg
+Grapes,Fruits,Nashik,150,350,Fresh green grapes seedless and sweet per kg
+Pomegranate,Fruits,Local,180,300,Fresh juicy pomegranates antioxidant rich per kg
+Watermelon,Fruits,Local,50,250,Sweet watermelons refreshing summer fruit per piece
+Papaya,Fruits,Local,60,400,Ripe papayas digestive enzyme rich per piece
+Pineapple,Fruits,Local,90,200,Fresh sweet pineapple per piece
+Guava,Fruits,Local,70,350,Fresh guavas vitamin C rich per kg
+Tomato,Vegetables,Local,40,1000,Fresh red tomatoes versatile cooking vegetable per kg
+Potato,Vegetables,Local,30,1200,Fresh potatoes staple vegetable per kg
+Onion,Vegetables,Local,35,1500,Fresh onions essential cooking ingredient per kg
+Spinach,Vegetables,Local,25,800,Fresh green spinach iron rich leafy vegetable per bunch
+Carrot,Vegetables,Local,45,900,Fresh orange carrots vitamin A rich per kg
+Cauliflower,Vegetables,Local,50,700,Fresh cauliflower white florets per piece
+Cabbage,Vegetables,Local,30,850,Fresh green cabbage crunchy vegetable per piece
+Brinjal,Vegetables,Local,35,750,Fresh purple brinjals eggplant per kg
+Lady Finger,Vegetables,Local,40,650,Fresh lady fingers okra tender per kg
+Cucumber,Vegetables,Local,30,900,Fresh cucumbers cooling salad vegetable per kg
+Capsicum,Vegetables,Local,60,500,Fresh green capsicum bell pepper per kg
+Bitter Gourd,Vegetables,Local,40,600,Fresh bitter gourd karela per kg
+Bottle Gourd,Vegetables,Local,35,700,Fresh bottle gourd lauki per piece
+Paracetamol,Medicine,Crocin,25,1000,500mg tablets for fever headache body pain pack of 10
+Crocin Advance,Medicine,Crocin,35,800,650mg fast relief paracetamol for fever and pain pack of 10
+Vicks VapoRub,Medicine,Vicks,55,600,Mentholated ointment for cold cough congestion relief 50g
+Digene,Medicine,Abbott,45,700,Antacid tablets for acidity gas indigestion relief pack of 15
+Disprin,Medicine,Reckitt,20,900,Aspirin tablets for headache toothache pain relief pack of 10
+Saridon,Medicine,Bayer,30,750,Headache migraine relief tablets fast acting pack of 10
+Gelusil,Medicine,Parke Davis,40,650,Antacid syrup for heartburn stomach ulcer relief 200ml
+Eno,Medicine,Glaxo,15,1200,Instant relief from acidity heartburn indigestion fruit salt sachet
+Strepsils,Medicine,Reckitt,35,850,Throat lozenges for sore throat cough relief pack of 8
+Benadryl,Medicine,Johnson,85,500,Cough syrup for dry wet cough allergy relief 100ml
+Cetirizine,Medicine,Dr Reddy,25,900,Antihistamine for allergies cold sneezing relief pack of 10
+ORS,Medicine,Local,20,1500,Oral rehydration salts for diarrhea dehydration electrolyte sachet
+Band Aid,Medicine,Johnson,30,2000,Adhesive bandages for cuts wounds first aid pack of 10
+Dettol,Medicine,Reckitt,75,800,Antiseptic liquid for wound cleaning first aid 100ml
+Betadine,Medicine,Win-Medicare,95,600,Antiseptic ointment for cuts burns wound care 20g
+Moov,Medicine,Reckitt,120,550,Pain relief cream for muscle joint back pain 50g
+Iodex,Medicine,Glaxo,110,500,Balm for body pain headache cold relief 40g
+Hajmola,Medicine,Dabur,15,1800,Digestive tablets for indigestion bloating relief pack of 30
+Pudin Hara,Medicine,Dabur,35,700,Herbal drops for stomach ache gas acidity relief 30ml
+Dabur Chyawanprash,Medicine,Dabur,250,400,Immunity booster health supplement Ayurvedic 500g
+Patanjali Honey,Medicine,Patanjali,180,500,Pure honey immunity booster 500g
+Amla Juice,Medicine,Patanjali,120,400,Fresh amla juice vitamin C rich 500ml
+Ashwagandha,Medicine,Patanjali,200,300,Stress relief energy booster tablets pack of 60
+Hand Soap,Personal Care,Dove,45,300,Moisturizing hand soap with cream 75g
+Toothpaste,Personal Care,Colgate,89,400,Cavity protection toothpaste 200g
+Hair Dryer,Personal Care,Philips,1999,80,Compact and lightweight hair dryer
+Trimmer,Personal Care,Mi,1499,100,Rechargeable beard trimmer with adjustable comb
+Shampoo,Personal Care,Head & Shoulders,349,200,Anti-dandruff shampoo 1L bottle
+Conditioner,Personal Care,Tresemme,299,180,Moisturizing conditioner for smooth hair
+Face Wash,Personal Care,Himalaya,149,250,Gentle face wash with natural ingredients
+Body Wash,Personal Care,Dove,199,300,Deep moisture body wash 200ml
+Lipstick,Beauty,Lakme,499,200,Long-lasting matte lipstick in vibrant shades
+Nail Polish,Beauty,Maybelline,199,300,Quick-dry nail polish with glossy finish
+Face Cream,Beauty,Ponds,249,200,Nourishing moisturizer for dry skin
+Body Lotion,Beauty,Nivea,299,150,Hydrating body lotion with aloe vera
+Face Mask,Beauty,Nykaa,99,400,Sheet face mask for glowing skin
+Kajal,Beauty,Lakme,150,500,Black kajal eye liner long lasting
+Yoga Mat,Fitness,Kobo,1299,80,Non-slip yoga mat with carry strap
+Dumbbells,Fitness,Cultsport,1999,50,Adjustable dumbbells pair
+Treadmill,Fitness,PowerMax,49999,10,Foldable treadmill with heart rate monitor
+Protein Powder,Fitness,MuscleBlaze,1200,150,Whey protein muscle building 1kg
+Multivitamin,Fitness,Revital,350,400,Daily multivitamin tablets pack of 30
+Cycle,Outdoor,Hercules,7999,30,Mountain bike with 21-speed gears
+Tennis Racket,Sports,Wilson,2999,50,Lightweight tennis racket with cover
+Football,Sports,Nivia,799,200,Standard size 5 football
+Cricket Bat,Sports,SG,4999,30,English willow cricket bat
+Badminton Shuttlecock,Sports,Yonex,299,300,Feather shuttlecocks pack of 6
+Table Tennis Bat,Sports,Stiga,1499,50,Professional table tennis bat
+Chess Board,Games,Funskool,499,150,Wooden chess board with chessmen
+Carrom Board,Games,Precise,1999,30,Full-size carrom board with coins
+Monopoly Board Game,Games,Hasbro,2499,50,Classic Monopoly board game
+Puzzle Game,Games,Ravensburger,1499,60,1000-piece jigsaw puzzle
+Plant Pot,Garden,Generic,399,100,Decorative plant pot with drainage hole
+Garden Tools,Garden,Falcon,1999,30,5-piece gardening tool set
+Fertilizer,Garden,IFFCO,599,80,Organic fertilizer 5kg pack
+Seeds,Garden,Ankur,149,200,Vegetable seeds assortment pack
+Dog Food,Pets,Pedigree,2499,50,Premium dog food for adult dogs 10kg pack
+Cat Litter,Pets,Whiskas,799,80,Clumping cat litter 10L pack
+Fish Food,Pets,Hikari,399,100,Nutritious fish food 500g pack
+Bird Cage,Pets,Generic,2999,20,Spacious bird cage with accessories
+Hamster Wheel,Pets,Pawzone,999,40,Silent exercise wheel for hamsters
+Toy Car,Toys,Hot Wheels,199,300,Miniature toy car single pack
+Doll Set,Toys,Barbie,2999,50,Barbie doll set with accessories
+Lego Blocks,Toys,Lego,4999,20,Creative Lego building block set
+Board Book,Books,Peppa Pig,299,150,Interactive board book for toddlers
+Novel,Books,HarperCollins,499,80,Bestselling fiction novel
+Notebook,Stationery,Classmate,60,300,Single-line notebook 200 pages
+Pen,Stationery,Parker,799,100,Fine writing pen with refill
+Calculator,Stationery,Casio,2499,50,Scientific calculator with 240 functions
+Markers,Stationery,Camlin,149,200,Set of 12 colorful markers
+Glue Stick,Stationery,Fevicol,49,400,Quick-drying glue stick 15g
+Stapler,Stationery,Kangaro,299,150,Durable stapler with staple pins
+Whiteboard,Office Supplies,Flipkart,1299,30,Magnetic whiteboard with marker and duster
+Laptop Stand,Accessories,Amazon Basics,1999,80,Ergonomic laptop stand for desks
+Portable Charger,Electronics,Anker,2999,120,High-capacity portable charger with fast charging
+Bluetooth Earbuds,Electronics,OnePlus,4999,150,Wireless earbuds with noise isolation
+Car Vacuum Cleaner,Automotive,Bergmann,3499,50,Compact vacuum cleaner for cars
+Detergent,Cleaning,Surf Excel,549,160,Advanced cleaning powder 4kg pack
+Floor Cleaner,Cleaning,Lizol,180,400,Disinfectant floor cleaner 1L
+Toilet Cleaner,Cleaning,Harpic,95,500,Toilet bowl cleaner 500ml
+Glass Cleaner,Cleaning,Colin,120,350,Glass and surface cleaner 500ml
+Mosquito Repellent,Cleaning,Good Knight,150,600,Electric mosquito repellent machine
+Air Freshener,Cleaning,Room Fresh,200,400,Room spray air freshener 300ml

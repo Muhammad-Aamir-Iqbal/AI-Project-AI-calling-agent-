@@ -1,0 +1,9 @@
+flask
+flask-sock
+twilio
+openai
+requests
+websocket-client
+pydub
+pandas
+python-dotenv
